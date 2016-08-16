@@ -49,7 +49,7 @@ data class HtmlPage(val title: String, val heading: String, val bodyText: String
         }
 
         fun body(bodyText: String): Builder {
-            this.bodyText.append(bodyText).append("\n");
+            this.bodyText.append(bodyText).append("\n")
 
             return this
         }

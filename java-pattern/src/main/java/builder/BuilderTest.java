@@ -14,7 +14,7 @@ public class BuilderTest {
     public static void main(String[] args) {
         final HtmlPage htmlPage = new HtmlPage.Builder()
                 .title("Hola Java")
-                .heading("This is java html page")
+//                .heading("This is java html page")
                 .body("ini java body 1")
                 .body("ini java body 2")
                 .build();
