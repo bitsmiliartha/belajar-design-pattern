@@ -23,7 +23,8 @@ class AdapterController extends Controller {
     public function actionIndex() {
         $printer = new Printer();
 
-        $adapter = new CarInfoAdapter(new CarInfo("Toyota", "Innova", 2015));
+        $adapter = new CarInfoAdapter(
+                new CarInfo("Toyota", "Innova", 2015));
 
         return $this->render("index", [
                     'printer' => $printer,

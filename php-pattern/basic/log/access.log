@@ -101,3 +101,5 @@
 127.0.0.1 - - [16/Aug/2016:16:00:42 +0700] "GET /assets/13b51ace/js/bootstrap.js HTTP/1.1" 200 69707 "http://designpattern.dev/adapter" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
 127.0.0.1 - - [16/Aug/2016:16:00:43 +0700] "GET /debug/default/toolbar?tag=57b2d63a15d9a HTTP/1.1" 200 6117 "http://designpattern.dev/adapter" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
 127.0.0.1 - - [16/Aug/2016:16:00:43 +0700] "GET /favicon.ico HTTP/1.1" 200 318 "http://designpattern.dev/adapter" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
+127.0.0.1 - - [16/Aug/2016:16:32:08 +0700] "GET /adapter HTTP/1.1" 200 4584 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
+127.0.0.1 - - [16/Aug/2016:16:32:09 +0700] "GET /debug/default/toolbar?tag=57b2dd98afbf2 HTTP/1.1" 200 6117 "http://designpattern.dev/adapter" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"

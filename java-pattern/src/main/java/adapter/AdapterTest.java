@@ -17,6 +17,8 @@ public class AdapterTest {
     public static void main(String[] args) {
 
         final Printer printer = new Printer();
-        printer.doPrint(new CarInfoAdapter(new CarInfo("Toyota", "Innova", 2015)));
+        printer.doPrint(
+                new CarInfoAdapter(
+                        new CarInfo("Toyota", "Innova", 2015)));
     }
 }
